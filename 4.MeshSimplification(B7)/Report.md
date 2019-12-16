@@ -1,7 +1,5 @@
 # B7-HalfEdge模型简化
 
-许书畅 2018213822 xsc14thu@foxmail.com
-
 ### 一、效果概览
 
 ![最终效果_模型简化](./Output/最终效果_模型简化.png)
