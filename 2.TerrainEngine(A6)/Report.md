@@ -1,7 +1,5 @@
 # A6-Terrain Engine
 
-许书畅 2018213822 xsc14thu@foxmail.com
-
 ### 一、效果概览
 
 流动的水面：
