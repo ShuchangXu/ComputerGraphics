@@ -21,8 +21,8 @@
 
 ### 三、报告快速索引
 
-1. [光线追踪(A5)](./1.RayTracing(A5)/Report)
-2. [地形引擎(A6)](./2.TerrainEngine(A6)/Report)
-3. [半边结构模型读取(B3)+模型交互与光照(B4)](./3.HalfEdgeDS(B3+B4)/Report)
-4. [半边结构模型简化(B7)](./4.MeshSimplification(B7)/Report)
-5. [细分着色器绘制贝塞尔曲面(B6)](./5.BezierSurfaceTessellation(B6)/Report)
+1. [光线追踪(A5)](https://github.com/ShuchangXu/ComputerGraphics/blob/master/1.RayTracing(A5)/Report.md)
+2. [地形引擎(A6)](https://github.com/ShuchangXu/ComputerGraphics/blob/master/2.TerrainEngine(A6)/Report.md)
+3. [半边结构模型读取(B3)+模型交互与光照(B4)](https://github.com/ShuchangXu/ComputerGraphics/blob/master/3.HalfEdgeDS(B3+B4)/Report.md)
+4. [半边结构模型简化(B7)](https://github.com/ShuchangXu/ComputerGraphics/blob/master/4.MeshSimplification(B7)/Report.md)
+5. [细分着色器绘制贝塞尔曲面(B6)](https://github.com/ShuchangXu/ComputerGraphics/blob/master/5.BezierSurfaceTessellation(B6)/Report.md)
