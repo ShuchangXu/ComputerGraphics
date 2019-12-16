@@ -1,7 +1,5 @@
 # A5-RayTracing
 
-许书畅 2018213822 xsc14thu@foxmail.com
-
 ### 一、效果概览
 
 1. `矩形区域光源` + `地板expBlur反射` + `反射材质Bezier旋转体`
