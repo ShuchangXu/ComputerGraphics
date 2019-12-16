@@ -1,7 +1,5 @@
 # Computer Graphics项目报告
 
-许书畅 2018213822 xsc14thu@foxmail.com
-
 ### 一、选题
 
 选取A类题目2道，B类题目4道。
