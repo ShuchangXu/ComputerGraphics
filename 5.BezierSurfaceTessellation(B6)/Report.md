@@ -1,7 +1,5 @@
 # B6-细分着色器绘制贝塞尔曲面
 
-许书畅 2018213822 xsc14thu@foxmail.com
-
 ### 一、效果概览
 
 ![最终效果_模型简化](./Output/最终效果_贝塞尔曲面.png)
@@ -32,7 +30,7 @@ macOS15.1, OpenGL4
 
 #### 4.1 渲染管线
 
-![渲染管线1](/Users/codaxu/Grad2A/Courses/OpenGL/Projects/5.BezierSurfaceTessellation(B6)/Output/渲染管线1.png)
+![渲染管线1](./Output/渲染管线1.png)
 
 #### 4.2 基本原理
 
